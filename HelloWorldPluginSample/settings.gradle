@@ -1,0 +1,12 @@
+//ローカルのリポジトリを読む
+
+pluginManagement {
+    repositories {
+        maven {
+            url '../maven-repo'
+        }
+        gradlePluginPortal()
+    }
+}
+
+rootProject.name = 'HelloWorldPluginSample'
