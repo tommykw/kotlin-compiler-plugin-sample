@@ -10,7 +10,7 @@ version '1.0.0'
 gradlePlugin {
     plugins {
         helloworld {
-            id = 'example.helloworldplugin' // gradle plugin id
+            id = 'example.helloworldplugin'
             implementationClass = 'example.HelloWorldGradlePlugin'
         }
     }

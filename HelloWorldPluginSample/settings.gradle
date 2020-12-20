@@ -1,5 +1,3 @@
-//ローカルのリポジトリを読む
-
 pluginManagement {
     repositories {
         maven {
