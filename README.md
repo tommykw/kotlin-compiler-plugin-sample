@@ -1,7 +1,7 @@
 # Kotlin Compiler Plugin Sample
 
 ## Summary
-This is a sample project using the kotlin compiler plugin. I used the [Tracer-Kotlin-Compiler-Plugin](https://github.com/acejingbo/Tracer-Kotlin-Compiler-Plugin) project as a reference. It consists of the following two projects. 
+This is a sample project using the kotlin compiler plugin. I used the [Tracer-Kotlin-Compiler-Plugin](https://github.com/acejingbo/Tracer-Kotlin-Compiler-Plugin) project as a reference. It consists of the following two projects. You can add `@HelloWorld` annotation to a function, `Hello World` will be printed. 
 
 - HelloWorldPlugin
   - HelloWorldCompilerPlugin.kt
